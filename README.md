@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> ca6552d (Initial Commit)
 # quizapp
 
 A new Flutter project.
